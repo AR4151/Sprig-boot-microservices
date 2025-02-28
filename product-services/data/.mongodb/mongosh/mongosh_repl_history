@@ -1,0 +1,40 @@
+db.product.find()
+select * from product;
+show tables;
+use product-service;
+show databases;
+db.product.find().pretty();
+db.product.find()
+product.find().pretty()
+product.find();
+product.find()
+show collections
+use product-service
+show databases
+db.product.find();
+db.products.find().pretty();
+show collections
+use product-service
+show databases
+db.product.find()
+show collections
+use product-service
+show databases
+show collections
+product-service
+show databases
+db.product.find().pretty()
+db.product.fing().pretty()
+db.product.find().preety();
+db.product.find.preety();
+db.product.find()
+db.products.find()
+show collections
+use product-service
+show databases
+show database
+db.product.find().pretty();
+db.products.find().pretty();
+show collections
+use product-service
+show databases;
